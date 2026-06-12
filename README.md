@@ -13,7 +13,7 @@ I'm a final-year Artificial Intelligence & Machine Learning student at St. Josep
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratham-U-dev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pratham-U-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=Pratham-U-dev&theme=light)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)

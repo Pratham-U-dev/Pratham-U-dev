@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final-year Artificial Intelligence & Machine Learning student at St. Joseph Engineering College, Mangaluru — passionate about building practical software that solves real problems.<br><br>My interest is in end-to-end development — combining AI, automation, cloud, and modern dev tools to take an idea from concept to working product. I don't stick to one stack; I pick what the problem needs.<br><br>🤖 Deeply interested in AI/ML, OCR & Document Intelligence, and Automation<br>🔨 I enjoy rapid prototyping and taking full ownership of projects<br>📚 Currently sharpening DSA, Java, System Design for placements<br>🌱 Always exploring — LLMs, cloud platforms, workflow automation<br>📍 Mangaluru, Karnataka, India
+I'm a final-year Artificial Intelligence & Machine Learning student at St. Joseph Engineering College, Mangaluru — passionate about building practical software that solves real problems.<br><br>My interest is in end-to-end development — combining AI, automation, cloud, and modern dev tools to take an idea from concept to working product. I don't stick to one stack; I pick what the problem needs.<br><br>🤖 Deeply interested in AI/ML, OCR & Document Intelligence, and Automation<br>🔨 I enjoy rapid prototyping and taking full ownership of projects<br>📚 Currently sharpening DSA, Java, System Design <br>🌱 Always exploring — LLMs, cloud platforms, workflow automation<br>📍 Mangaluru, Karnataka, India
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@ I'm a final-year Artificial Intelligence & Machine Learning student at St. Josep
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pratham-U-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Pratham-U-dev&color=green)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

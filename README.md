@@ -1,24 +1,129 @@
-# 💫 About Me:
-I'm a final-year Artificial Intelligence & Machine Learning student at St. Joseph Engineering College, Mangaluru — passionate about building practical software that solves real problems.<br><br>My interest is in end-to-end development — combining AI, automation, cloud, and modern dev tools to take an idea from concept to working product. I don't stick to one stack; I pick what the problem needs.<br><br>🤖 Deeply interested in AI/ML, OCR & Document Intelligence, and Automation<br>🔨 I enjoy rapid prototyping and taking full ownership of projects<br>📚 Currently sharpening DSA, Java, System Design <br>🌱 Always exploring — LLMs, cloud platforms, workflow automation<br>📍 Mangaluru, Karnataka, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20U&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Student+%F0%9F%A7%A0;Full-Stack+Developer+%7C+Rapid+Prototyper;Building+software+that+solves+real+problems;OCR+%7C+Automation+%7C+Vehicle+Telemetry+%7C+Cloud" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratham-u-4723a32b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratham.u05@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-%23FA4616.svg?style=plastic&logo=uipath&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23E11D48.svg?style=plastic&logo=n8n&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pratham-U-dev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pratham-U-dev&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratham-U-dev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-fork-two.vercel.app/?username=Pratham-U-dev&theme=light)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham-u-4723a32b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pratham.u05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://prathamu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pratham-U-dev&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+</p>
 
 ---
-![](https://komarev.com/ghpvc/?username=Pratham-U-dev&color=green)
 
+## 🧑‍💻 About Me
 
+```yaml
+name: Pratham U
+location: Mangaluru, Karnataka, India
+education: B.E. in AI & ML — St. Joseph Engineering College (Final Year)
+
+focus:
+  - End-to-end product development (idea → deployment)
+  - OCR & Document Intelligence
+  - LLMs, Workflow Automation, Cloud Platforms
+  - DSA, Java & System Design (currently sharpening)
+
+philosophy: "I don't stick to one stack — I pick what the problem needs."
+
+currently_exploring:
+  - Vehicle telemetry & ML-based anomaly detection
+  - n8n & UiPath automation workflows
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cs,r,html,css&theme=dark" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,vite,opencv,sklearn&theme=dark" />
+</p>
+
+**Databases & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,gcp,vercel,netlify,render&theme=dark" />
+</p>
+
+**Tools & Automation**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,canva&theme=dark" />
+  <img src="https://img.shields.io/badge/n8n-E11D48?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratham-U-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-U-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pratham-U-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham-U-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratham-U-dev/Pratham-U-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratham-U-dev/Pratham-U-dev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pratham-U-dev/Pratham-U-dev/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratham-U-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+---
+
+## 💡 What I'm Building
+
+> I believe in **owning projects end-to-end** — from architecture and backend to deployment and UX.
+> My sweet spot: combining **AI/ML with practical tooling** to automate things that slow people down.
+
+- 🔭 Building **ECU Guardian** — real-time vehicle health scoring with ML (LSTM, Random Forest, K-Means)
+- 🤖 Built **OCR + n8n pipelines** to extract structured data from unstructured exam PDFs
+- 🌐 Comfortable across **React, FastAPI, Node.js, cloud infra**
+- 🧩 Always prototyping — fast iteration is the goal
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

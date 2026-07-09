@@ -80,10 +80,6 @@ currently_exploring:
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pratham-U-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pratham-U-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7&card_width=500" />
-</p>
-
 ---
 
 ## 📈 Contribution Activity

@@ -34,7 +34,6 @@ focus:
   - LLMs, Workflow Automation, Cloud Platforms
   - DSA, Java & System Design (currently sharpening)
 
-philosophy: "I don't stick to one stack — I pick what the problem needs."
 
 currently_exploring:
   - Vehicle telemetry & ML-based anomaly detection

@@ -79,6 +79,11 @@ currently_exploring:
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pratham-U-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Pratham-U-dev&theme=transparent&card_width=500" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ## 📈 Contribution Activity

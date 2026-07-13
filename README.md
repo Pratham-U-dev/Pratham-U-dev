@@ -119,7 +119,7 @@ currently_exploring:
 > I believe in **owning projects end-to-end** — from architecture and backend to deployment and UX.
 > My sweet spot: combining **AI/ML with practical tooling** to automate things that slow people down.
 
-- 🔭 Building **ECU Guardian** — real-time vehicle health scoring with ML (LSTM, Random Forest, K-Means)
+- 🔭 Building **AutoVue** — real-time vehicle health scoring with ML (LSTM, Random Forest, K-Means)
 - 🤖 Built **OCR + n8n pipelines** to extract structured data from unstructured exam PDFs
 - 🌐 Comfortable across **React, FastAPI, Node.js, cloud infra**
 - 🧩 Always prototyping — fast iteration is the goal

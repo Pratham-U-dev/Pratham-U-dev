@@ -75,15 +75,14 @@ currently_exploring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Pratham-U-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pratham-U-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Pratham-U-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pratham-U-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Pratham-U-dev&theme=transparent&card_width=500" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Pratham-U-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=ffffff&card_width=500" />
 </p>
+
 ---
 
 ## 📈 Contribution Activity
@@ -91,8 +90,6 @@ currently_exploring:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham-U-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff" width="100%"/>
 </p>
-
----
 
 ## 🐍 Contribution Snake
 

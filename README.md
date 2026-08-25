@@ -47,7 +47,7 @@ currently_exploring:
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cs,r,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,r,html,css&theme=dark" />
 </p>
 
 **Frameworks & Libraries**

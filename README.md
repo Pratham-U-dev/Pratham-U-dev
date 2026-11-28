@@ -47,7 +47,7 @@ currently_exploring:
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,r,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,html,css&theme=dark" />
 </p>
 
 **Frameworks & Libraries**
@@ -59,7 +59,7 @@ currently_exploring:
 **Databases & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,gcp,vercel,netlify,render&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel,netlify,render&theme=dark" />
 </p>
 
 **Tools & Automation**
